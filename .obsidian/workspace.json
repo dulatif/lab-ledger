@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "f44217976ec152b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d75dd3a6b2ce503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8aac5933bbe7d49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d5182e5db81488c",
+    "type": "split",
+    "children": [
+      {
+        "id": "997c74be3a59d066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8622fa51f162b5f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce9c7f23b720c4f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f3c0835d5a26057",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "497dd56b08516f58",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d28e9540628c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e34504cf5e51fd62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "41214277788d90bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "aac06db41f96f761",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "891936f0ed77d35f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ee2fa3eec70a6564",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b8aac5933bbe7d49",
+  "lastOpenFiles": [
+    "courses/nestjs/14-graphql-schema-first/list-lesson.md",
+    "courses/nestjs/14-graphql-schema-first/21-batching-and-caching-with-data-loader.md",
+    "courses/nestjs/14-graphql-schema-first/20-real-time-updates-with-subscriptions.md",
+    "courses/nestjs/14-graphql-schema-first/19-unions-and-enums.md",
+    "courses/nestjs/14-graphql-schema-first/18-using-graphql-interfaces.md",
+    "courses/nestjs/14-graphql-schema-first/17-understanding-custom-scalar-types.md",
+    "courses/nestjs/14-graphql-schema-first/16-using-field-resolvers.md",
+    "courses/nestjs/14-graphql-schema-first/15-adding-relation-to-two-entities.md",
+    "courses/nestjs/14-graphql-schema-first/14-auto-validate-input-data.md",
+    "courses/nestjs/14-graphql-schema-first/13-adding-update-and-delete-operations.md",
+    "courses/nestjs/14-graphql-schema-first/12-using-repository-to-access-database.md",
+    "courses/nestjs/14-graphql-schema-first/11-connecting-to-a-database-with-typeorm.md",
+    "courses/nestjs/14-graphql-schema-first/10-creating-a-service.md",
+    "courses/nestjs/14-graphql-schema-first/09-manipulating-data-with-mutations.md",
+    "courses/nestjs/14-graphql-schema-first/08-using-graphql-variables.md",
+    "courses/nestjs/14-graphql-schema-first/07-passing-arguments-returning-a-coffee-by-id.md",
+    "courses/nestjs/14-graphql-schema-first/06-graphql-schemas-types-and-scalars.md",
+    "courses/nestjs/14-graphql-schema-first/05-introduction-to-resolvers-and-object-types.md",
+    "courses/nestjs/14-graphql-schema-first/04-creating-our-first-graphql-application.md",
+    "courses/nestjs/14-graphql-schema-first/03-code-first-vs-schema-first.md",
+    "courses/nestjs/14-graphql-schema-first/02-introduction-to-graphql-with-nestjs.md",
+    "courses/nestjs/14-graphql-schema-first/01-before-we-get-started.md",
+    "courses/nestjs/13-graphql-code-first/list-lesson.md",
+    "courses/nestjs/13-graphql-code-first/23-batching-and-caching-with-data-loader.md",
+    "courses/nestjs/13-graphql-code-first/22-real-time-updates-with-subscriptions.md",
+    "courses/nestjs/13-graphql-code-first/21-field-middleware.md",
+    "courses/nestjs/14-graphql-schema-first",
+    "courses/nestjs/13-graphql-code-first",
+    "courses/nestjs/12-mongodb-with-mongoose",
+    "Untitled.base",
+    "Untitled.canvas",
+    "courses/astro",
+    "courses/vue",
+    "courses/angular",
+    "courses/nestjs/11-micro-services",
+    "courses/nestjs/04-application-configuration/image.png",
+    "courses/postgresql",
+    "courses/software-architect"
+  ]
+}
