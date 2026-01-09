@@ -11,10 +11,14 @@
             "id": "b8aac5933bbe7d49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "courses/postgresql/01-beginner/01-relational-model.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01-relational-model"
             }
           }
         ]
@@ -90,16 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/postgresql/01-beginner/01-relational-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 01-relational-model"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/postgresql/01-beginner/01-relational-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 01-relational-model"
             }
           },
           {
@@ -150,20 +156,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "courses/postgresql/01-beginner/01-relational-model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 01-relational-model"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,42 +184,42 @@
   },
   "active": "b8aac5933bbe7d49",
   "lastOpenFiles": [
-    "courses/data-structure-and-algorithm/03-advanced/08-advanced-patterns.md",
-    "courses/data-structure-and-algorithm/03-advanced/07-dynamic-programming.md",
-    "courses/data-structure-and-algorithm/03-advanced/06-paradigms.md",
-    "courses/data-structure-and-algorithm/03-advanced/05-mst.md",
-    "courses/data-structure-and-algorithm/03-advanced/04-union-find.md",
-    "courses/data-structure-and-algorithm/03-advanced/03-tries.md",
-    "courses/data-structure-and-algorithm/03-advanced/02-range-queries.md",
-    "courses/data-structure-and-algorithm/03-advanced/01-self-balancing-trees.md",
-    "courses/data-structure-and-algorithm/02-intermediate/09-shortest-path.md",
-    "courses/data-structure-and-algorithm/02-intermediate/08-graph-traversals.md",
-    "courses/data-structure-and-algorithm/02-intermediate/07-graph-representations.md",
-    "courses/data-structure-and-algorithm/02-intermediate/06-heaps.md",
-    "courses/data-structure-and-algorithm/02-intermediate/05-tree-traversals.md",
-    "courses/data-structure-and-algorithm/02-intermediate/04-binary-trees.md",
-    "courses/data-structure-and-algorithm/02-intermediate/03-heap-sort.md",
-    "courses/data-structure-and-algorithm/02-intermediate/02-efficient-sorts.md",
-    "courses/data-structure-and-algorithm/02-intermediate/01-elementary-sorts.md",
-    "courses/data-structure-and-algorithm/01-beginner/10-basic-search.md",
-    "courses/data-structure-and-algorithm/01-beginner/09-hash-tables.md",
-    "courses/data-structure-and-algorithm/01-beginner/08-stacks-queues.md",
-    "courses/data-structure-and-algorithm/01-beginner/07-linked-lists.md",
-    "courses/data-structure-and-algorithm/01-beginner/06-arrays-strings.md",
-    "courses/data-structure-and-algorithm/01-beginner/05-common-runtimes.md",
-    "courses/data-structure-and-algorithm/01-beginner/04-big-o.md",
-    "courses/data-structure-and-algorithm/01-beginner/03-why-dsa.md",
-    "courses/data-structure-and-algorithm/01-beginner/02-core-concepts.md",
+    "courses/postgresql/01-beginner/+syllabus.md",
+    "courses/postgresql/#roadmap.md",
+    "courses/nestjs/03-dependency-injection/08-leverage-async-providers.md",
+    "courses/react-native/03-advanced/09-deployment.md",
+    "courses/react-native/03-advanced/08-profiling.md",
+    "courses/react-native/03-advanced/07-optimization.md",
+    "cheat-sheet",
+    "courses/react-native/03-advanced/06-e2e-testing.md",
+    "courses/react-native/03-advanced/05-component-testing.md",
+    "courses/react-native/03-advanced/04-unit-testing.md",
+    "courses/react-native/03-advanced/03-notifications.md",
+    "courses/react-native/03-advanced/02-native-modules.md",
+    "courses/react-native/03-advanced/01-security.md",
+    "courses/react-native/02-intermediate/09-websockets.md",
+    "courses/nestjs/03-dependency-injection/06-class-providers.md",
+    "courses/react-native/02-intermediate/08-local-storage.md",
+    "courses/nestjs/03-dependency-injection/07-factory-providers.md",
+    "courses/nestjs/03-dependency-injection/05-non-class-based-provider-tokens.md",
+    "courses/nestjs/03-dependency-injection/03-diving-into-custom-providers.md",
+    "courses/nestjs/03-dependency-injection/01-understand-dependency-injection.md",
+    "courses/react-native/02-intermediate/07-networking.md",
+    "courses/nestjs/03-dependency-injection/02-control-nestjs-module-encapsulation.md",
+    "courses/react-native/02-intermediate/06-animations.md",
+    "courses/react-native/02-intermediate/05-deep-linking.md",
+    "courses/react-native/02-intermediate/04-navigation.md",
+    "courses/react-native/02-intermediate/03-accessibility.md",
+    "courses/react-native/02-intermediate/02-rn-web.md",
+    "courses/react-native/03-advanced",
+    "courses/react-native/02-intermediate",
+    "courses/react-native/01-beginner",
     "courses/data-structure-and-algorithm/03-advanced",
     "courses/data-structure-and-algorithm/02-intermediate",
     "courses/data-structure-and-algorithm/01-beginner",
     "coding-agent",
     "courses/postgresql/03-advanced",
     "courses/postgresql/02-intermediate",
-    "courses/postgresql/01-beginner",
-    "courses/docker/03-advanced",
-    "courses/docker/02-intermediate",
-    "courses/docker/01-beginner",
     "Untitled.canvas",
     "courses/nestjs/04-application-configuration/image.png"
   ]
