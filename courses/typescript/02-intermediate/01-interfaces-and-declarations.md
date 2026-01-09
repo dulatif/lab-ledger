@@ -53,3 +53,5 @@ const box: Box = { height: 10, width: 20 };
 
 - Use Interfaces for describing data shapes (DTOs, configurations).
 - Interfaces are extendable via merging (useful for plugin systems).
+
+Next: [[02-hybrid-types-and-extending]]

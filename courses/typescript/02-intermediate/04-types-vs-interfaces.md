@@ -32,3 +32,5 @@ Functionally, they are 95% similar.
 ## 🔑 Key Takeaways
 
 - **Rule of Thumb**: Use `interface` for Objects/API responses. Use `type` for everything else (Unions, Primitives, Functions).
+
+Next: [[05-union-types-and-aliases]]

@@ -40,3 +40,6 @@ const widget: UIWidget = {
 
 - Use `extends` for object hierarchies.
 - Use `&` for ephemeral combinations or mixins.
+
+
+Next: [[04-types-vs-interfaces]]

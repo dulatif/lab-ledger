@@ -53,3 +53,6 @@ function getCounter(): Counter {
 
 - `extends` promotes reusability.
 - Interfaces can model weird JS patterns like "Functions with properties".
+
+
+Next: [[03-intersection-types-vs-inheritance]]
