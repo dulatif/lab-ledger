@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/typescript/02-intermediate/06-using-keyof-operator.md",
+                "file": "courses/typescript/02-intermediate/02-hybrid-types-and-extending.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-using-keyof-operator"
+              "title": "02-hybrid-types-and-extending"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/typescript/02-intermediate/06-using-keyof-operator.md",
+                "file": "courses/typescript/02-intermediate/02-hybrid-types-and-extending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 06-using-keyof-operator"
+              "title": "Backlinks for 02-hybrid-types-and-extending"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/typescript/02-intermediate/06-using-keyof-operator.md",
+                "file": "courses/typescript/02-intermediate/02-hybrid-types-and-extending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 06-using-keyof-operator"
+              "title": "Outgoing links from 02-hybrid-types-and-extending"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/typescript/02-intermediate/06-using-keyof-operator.md",
+                "file": "courses/typescript/02-intermediate/02-hybrid-types-and-extending.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 06-using-keyof-operator"
+              "title": "Outline of 02-hybrid-types-and-extending"
             }
           }
         ],
@@ -185,42 +185,42 @@
   },
   "active": "b8aac5933bbe7d49",
   "lastOpenFiles": [
-    "courses/typescript/02-intermediate/05-union-types-and-aliases.md",
-    "courses/typescript/02-intermediate/03-intersection-types-vs-inheritance.md",
-    "courses/typescript/02-intermediate/02-hybrid-types-and-extending.md",
-    "courses/typescript/02-intermediate/01-interfaces-and-declarations.md",
-    "courses/typescript/02-intermediate/04-types-vs-interfaces.md",
-    "courses/vue/03-advanced/09-deployment.md",
-    "courses/vue/03-advanced/08-e2e.md",
-    "courses/vue/03-advanced/07-testing.md",
-    "courses/vue/03-advanced/06-graphql.md",
-    "courses/postgresql/01-beginner/01-relational-model.md",
-    "courses/vue/03-advanced/05-data-fetching.md",
-    "courses/vue/03-advanced/04-ssg.md",
-    "courses/vue/03-advanced/03-ssr.md",
-    "courses/vue/03-advanced/02-transitions.md",
-    "courses/vue/03-advanced/01-optimization.md",
-    "courses/design-system/#roadmap.md",
-    "courses/vue/02-intermediate/11-libraries.md",
-    "courses/vue/02-intermediate/10-css.md",
-    "courses/vue/02-intermediate/09-pinia.md",
-    "courses/vue/02-intermediate/08-vue-router.md",
-    "courses/vue/02-intermediate/07-custom-directives.md",
-    "courses/vue/02-intermediate/06-composables.md",
-    "courses/mongodb/#roadmap.md",
+    "courses/flutter/03-advanced/09-publishing.md",
+    "courses/flutter/03-advanced/08-cicd.md",
+    "courses/flutter/03-advanced/07-analytics.md",
+    "courses/flutter/03-advanced/06-debugging.md",
+    "courses/flutter/03-advanced/05-testing.md",
+    "courses/flutter/03-advanced/04-isolates.md",
+    "courses/flutter/03-advanced/03-internals.md",
+    "courses/flutter/03-advanced/02-explicit-animations.md",
+    "courses/flutter/03-advanced/01-implicit-animations.md",
+    "courses/flutter/02-intermediate/10-functional.md",
+    "courses/flutter/02-intermediate/09-oop.md",
+    "courses/flutter/02-intermediate/08-async-dart.md",
+    "courses/flutter/02-intermediate/07-reactivity.md",
+    "courses/flutter/02-intermediate/06-state-management.md",
+    "courses/flutter/02-intermediate/05-provider.md",
+    "courses/flutter/02-intermediate/04-firebase.md",
+    "courses/flutter/02-intermediate/03-local-storage.md",
+    "courses/flutter/02-intermediate/02-json.md",
+    "courses/flutter/02-intermediate/01-networking.md",
+    "courses/flutter/01-beginner/09-git.md",
+    "courses/flutter/01-beginner/08-responsive.md",
+    "courses/flutter/01-beginner/07-box-model.md",
+    "courses/flutter/01-beginner/06-assets.md",
+    "courses/flutter/01-beginner/05-material-cupertino.md",
+    "courses/flutter/01-beginner/04-widgets-101.md",
+    "courses/flutter/01-beginner/03-dart-basics-2.md",
+    "courses/flutter/03-advanced",
+    "courses/flutter/02-intermediate",
+    "courses/flutter/01-beginner",
     "courses/mongodb",
-    "courses/vue/02-intermediate/05-watchers.md",
-    "courses/vue/02-intermediate/04-provide-inject.md",
-    "courses/vue/02-intermediate/03-slots.md",
     "courses/graphql",
     "courses/vue/03-advanced",
     "courses/vue/02-intermediate",
     "courses/vue/01-beginner",
     "courses/flutter",
     "courses/f",
-    "courses/angular/03-advanced",
-    "courses/angular/02-intermediate",
-    "courses/angular/01-beginner",
     "Untitled.canvas",
     "courses/nestjs/04-application-configuration/image.png"
   ]
