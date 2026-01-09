@@ -185,6 +185,10 @@
   },
   "active": "b8aac5933bbe7d49",
   "lastOpenFiles": [
+    "courses/mongodb/01-beginner/02-setup.md",
+    "courses/mongodb/01-beginner/01-intro.md",
+    "courses/mongodb/01-beginner/+syllabus.md",
+    "courses/mongodb/01-beginner",
     "courses/typescript/01-beginner/07-functions.md",
     "courses/typescript/01-beginner/06-objects.md",
     "courses/typescript/01-beginner/05-enums.md",
@@ -209,9 +213,6 @@
     "courses/machine-learning/02-intermediate/05-pca.md",
     "courses/machine-learning/02-intermediate/04-clustering.md",
     "courses/machine-learning/02-intermediate/03-classification.md",
-    "courses/machine-learning/02-intermediate/02-regression.md",
-    "courses/machine-learning/02-intermediate/01-workflow.md",
-    "courses/machine-learning/01-beginner/09-feature-engineering.md",
     "courses/machine-learning/03-advanced",
     "courses/machine-learning/02-intermediate",
     "courses/machine-learning/01-beginner",
@@ -220,7 +221,6 @@
     "courses/graphql/01-beginner",
     "courses/flutter/03-advanced",
     "courses/flutter/02-intermediate",
-    "courses/flutter/01-beginner",
     "Untitled.canvas",
     "courses/nestjs/04-application-configuration/image.png"
   ]
