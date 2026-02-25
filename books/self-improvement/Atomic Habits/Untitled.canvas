@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1ee5bf00ffde0388","type":"text","text":"Atomic Habits","x":-320,"y":20,"width":250,"height":60,"color":"1"},
+		{"id":"debbc64a16512e7f","type":"text","text":"The 1st Law\nMake It Obvious","x":140,"y":-120,"width":250,"height":60},
+		{"id":"fc5b5b5c6aa41483","x":140,"y":360,"width":250,"height":60,"type":"text","text":"The 4th Law\nMake It Satisfying"},
+		{"id":"8fca97c36a7c069d","x":140,"y":180,"width":250,"height":60,"type":"text","text":"The 3rd Law\nMake It Easy"},
+		{"id":"38d1e6df102c36ae","x":160,"y":20,"width":250,"height":60,"type":"text","text":"The 2nd Law\nMake It Attractive"},
+		{"id":"913f8ebee6285df8","type":"file","file":"books/self-improvement/Atomic Habits/Bab 6 - Motivasi Itu Overrated Lingkungan Seringkali Lebih Penting.md","x":700,"y":-60,"width":500,"height":50}
+	],
+	"edges":[
+		{"id":"5e2e1658448ffb35","fromNode":"1ee5bf00ffde0388","fromSide":"right","toNode":"debbc64a16512e7f","toSide":"left"},
+		{"id":"0a7f74c9877c85a6","fromNode":"1ee5bf00ffde0388","fromSide":"right","toNode":"38d1e6df102c36ae","toSide":"left"},
+		{"id":"2d02685a426d66c1","fromNode":"1ee5bf00ffde0388","fromSide":"right","toNode":"8fca97c36a7c069d","toSide":"left"},
+		{"id":"8b9f5c86f18e0184","fromNode":"1ee5bf00ffde0388","fromSide":"right","toNode":"fc5b5b5c6aa41483","toSide":"left"},
+		{"id":"5541f6893d55755f","fromNode":"debbc64a16512e7f","fromSide":"right","toNode":"913f8ebee6285df8","toSide":"left"}
+	]
+}

@@ -5,12 +5,12 @@
 **1. Which package provides the standard way to handle .env files in NestJS?**
 
 - [ ] A. `dotenv`
-- [ ] B. `@nestjs/config`
+- [x] B. `@nestjs/config`
 - [ ] C. `@nestjs/environment`
 
 **2. Why should you use `ConfigService` instead of `process.env`?**
 
-- [ ] A. It provides type safety and better testability
+- [x] A. It provides type safety and better testability
 - [ ] B. It is faster
 - [ ] C. `process.env` is deprecated in Node.js
 
@@ -18,23 +18,23 @@
 
 - [ ] A. Encrypts the environment variables
 - [ ] B. Validates variables at runtime for every request
-- [ ] C. Validates variables at startup and throws an error if validation fails
+- [x] C. Validates variables at startup and throws an error if validation fails
 
 **4. How do you create a namespaced configuration slice?**
 
 - [ ] A. `createConfig('name', ...)`
 - [ ] B. `ConfigModule.namespace('name')`
-- [ ] C. `registerAs('name', ...)`
+- [x] C. `registerAs('name', ...)`
 
 **5. Which method allows you to inject ConfigService into another module's configuration (like TypeORM)?**
 
 - [ ] A. `TypeOrmModule.forRoot()`
-- [ ] B. `TypeOrmModule.forRootAsync()`
+- [x] B. `TypeOrmModule.forRootAsync()`
 - [ ] C. `TypeOrmModule.withConfig()`
 
 **6. If you have a `.env` file and a `configuration.ts` custom file, which value takes precedence and overwrites the other?**
 
-- [ ] A. `.env` overwrites custom config
+- [x] A. `.env` overwrites custom config
 - [ ] B. Custom config overwrites `.env`
 - [ ] C. They are merged and custom config wins on conflict
 

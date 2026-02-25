@@ -1,4 +1,9 @@
 {
   "cssTheme": "Catppuccin",
-  "accentColor": "#6b40f7"
+  "accentColor": "#6b40f7",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Nunito",
+  "monospaceFontFamily": "Fira Code",
+  "showViewHeader": true,
+  "showRibbon": false
 }

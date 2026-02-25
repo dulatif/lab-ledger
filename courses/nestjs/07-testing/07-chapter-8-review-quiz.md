@@ -5,31 +5,31 @@
 **1. Which command runs unit tests in NestJS?**
 
 - [ ] A. `npm run e2e`
-- [ ] B. `npm test`
+- [x] B. `npm test`
 - [ ] C. `node test.js`
 
 **2. What describes a "Unit Test"?**
 
 - [ ] A. Testing the entire application flow from HTTP to Database
-- [ ] B. Testing a single class in isolation, mocking dependencies
+- [x] B. Testing a single class in isolation, mocking dependencies
 - [ ] C. Testing the UI
 
 **3. In a Unit Test, how do you provide a fake implementation for a Service?**
 
 - [ ] A. You can't, you must use the real one
-- [ ] B. `{ provide: Service, useValue: mockObject }`
+- [x] B. `{ provide: Service, useValue: mockObject }`
 - [ ] C. `new Service()`
 
 **4. Where do E2E tests usually live in a standard NestJS project?**
 
 - [ ] A. `src/e2e`
-- [ ] B. `tests/` (root level)
+- [x] B. `tests/` (root level)
 - [ ] C. `dist/`
 
 **5. What library is used to simulate HTTP requests in E2E tests?**
 
 - [ ] A. Axios
-- [ ] B. Supertest
+- [x] B. Supertest
 - [ ] C. Express
 
 ---
